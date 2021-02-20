@@ -28,7 +28,7 @@ The analysis of the election show that:
     - Diane DeGette who received "73.8%" of the vote and "272,892" number of votes.
     
  ## Challenge Overview
-by using the pseudocode we are able to calculate the results.   
+using for loops and conditional statements to find the requested results.   
  
  ## Challenge Summary
 point of pseudocode is to focus on the overall design of the program.

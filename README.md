@@ -20,12 +20,17 @@ The analysis of the election show that:
      - Charles Casper Stockham
      - Diana DeGette
      - Raymon Anthony Doane
+-The Counties were:
+     - Jefferson
+     - Denver
+     - Arapahoe
 - The candidate results were:
      - Charles Casper Stockham received "23.0%" of the vote and "85,213" number of votes.
      - Diana DeGete received "73.8%" of the vote and "272,892" number of votes.
      - Raymon Anthony Doane received "3.1%" and "11,606" number of votes.
- The Winner of the electio was:
+ The Winner of the election was:
     - Diane DeGette who received "73.8%" of the vote and "272,892" number of votes.
+ The Largest Vote Turnover was in "Arapahoe"?
     
  ## Challenge Overview
 using for loops and conditional statements to find the requested results.   
